@@ -4,3 +4,5 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 Members: Nathan Scott
 
 [expose.html](https://ncscott95.github.io/Lab5_Starter/expose.html)
+
+[explore.html](https://ncscott95.github.io/Lab5_Starter/explore.html)
